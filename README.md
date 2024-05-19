@@ -17,6 +17,10 @@ The circuit involves the following key components:
 * **LCD Display:** To display the measured distance (optional).
 * **Supporting Components:** Resistors, capacitors, and other necessary electronic components.
 
+## Circuit Layout
+
+![image](https://github.com/AmishiDesai04/Ultrasonic-Distance-Calculator-Using-8051-Microcontroller/assets/170110607/d00289ec-e5e1-400d-9559-6b7579e93131)
+
 ## Authors 
 
 This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) [@reneeka](https://www.github.com/reneeka) 
