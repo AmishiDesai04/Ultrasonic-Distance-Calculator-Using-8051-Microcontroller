@@ -1,1 +1,2 @@
-# Ultrasonic-Distance-Calculator-Using-8051-Microcontroller
+# Ultrasonic Distance Calculator using 8051 Microcontroller
+
